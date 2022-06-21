@@ -7,7 +7,7 @@
  
   <br />
 
-  <h2 align="center">Cat Photo App - Responsive Web Design</h2>
+  <h2 align="center">Cat Photo App</h2>
 
   In this website, I have learned the most common HTML tags by building my own cat photo app, <br />The website is built using HTML5.
 
