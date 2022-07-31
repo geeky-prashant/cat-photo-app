@@ -9,7 +9,7 @@
 
   <h2 align="center">Cat Photo App</h2>
 
-  In this project, I have learned the most common HTML tags by building my own cat photo app, <br />The project is built using HTML5.
+  In this project, I have learned the most common HTML tags by building my own cat photo app, The project is built using HTML5.
 
   <a href="https://geeky-prashant.github.io/cat-photo-app/"><strong>➥ Live Demo</strong></a>
 
